@@ -18,6 +18,10 @@ KiroTestUtils.prototype = {
         return 'Hello from ServiceNow';
     },
 
+    getVersion: function() {
+        return '1.0';
+    },
+
     type: 'KiroTestUtils'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
