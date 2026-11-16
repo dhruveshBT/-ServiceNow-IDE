@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_2314955_kiro_g_0.KiroTestUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>KiroTestUtils</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var KiroTestUtils = Class.create();
+KiroTestUtils.prototype = {
+    initialize: function() {
+    },
+
+    getTestMessage: function() {
+        return 'Hello from ServiceNow';
+    },
+
+    type: 'KiroTestUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 17:47:48</sys_created_on>
+        <sys_id>8dd5225e8324171057e356a6feaad30f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>KiroTestUtils</sys_name>
+        <sys_package display_value="Kiro Git Test" source="x_2314955_kiro_g_0">24156ada8324171057e356a6feaad3c9</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Kiro Git Test">24156ada8324171057e356a6feaad3c9</sys_scope>
+        <sys_update_name>sys_script_include_8dd5225e8324171057e356a6feaad30f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 17:49:05</sys_updated_on>
+    </sys_script_include>
+</record_update>

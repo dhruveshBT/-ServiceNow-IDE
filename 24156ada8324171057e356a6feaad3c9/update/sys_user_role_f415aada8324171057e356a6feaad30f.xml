@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>bL2s9P5HYRhGPMNqI9SMnwwL1/yDROGmoqMCujq0XOE=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2314955_kiro_g_0.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-16 17:42:23</sys_created_on>
+        <sys_id>f415aada8324171057e356a6feaad30f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2314955_kiro_g_0.admin</sys_name>
+        <sys_package display_value="Kiro Git Test" source="x_2314955_kiro_g_0">24156ada8324171057e356a6feaad3c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kiro Git Test">24156ada8324171057e356a6feaad3c9</sys_scope>
+        <sys_update_name>sys_user_role_f415aada8324171057e356a6feaad30f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-16 17:42:23</sys_updated_on>
+    </sys_user_role>
+</record_update>
